@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khushi</h1>
 <h3 align="center">A passionate full stack developer from Delhi</h3>
 
-- 💬 Ask me about **Java**
 
 - 📫 How to reach me **khushik7698@gmail.com**
 
